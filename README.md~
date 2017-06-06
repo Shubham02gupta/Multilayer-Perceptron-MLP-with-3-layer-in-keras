@@ -1,0 +1,14 @@
+# Simple Multilayer perceptron (MLP) 
+
+
+##Dependencies
+
+* numpy
+* keras
+* theano
+
+##Usage
+
+```
+python src.py
+```
